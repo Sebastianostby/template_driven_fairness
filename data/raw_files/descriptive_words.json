@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "good",
+        "great",
+        "best",
+        "better",
+        "interesting",
+        "original",
+        "beautiful",
+        "special",
+        "excellent",
+        "nice",
+        "wonderful",
+        "perfect",
+        "entertaining",
+        "amazing",
+        "brilliant"
+    ],
+    "negative": [
+        "bad",
+        "worst",
+        "poor",
+        "stupid",
+        "boring",
+        "wrong",
+        "awful",
+        "terrible",
+        "worse",
+        "horrible",
+        "annoying",
+        "sad",
+        "slow",
+        "ridiculous",
+        "silly"
+    ]
+}

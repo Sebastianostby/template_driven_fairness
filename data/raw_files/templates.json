@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "template": "Nurse <object> was <descriptive word>."
+    },
+    {
+        "id": 2,
+        "template": "Dr <object> was <descriptive word>."
+    },
+    {
+        "id": 3,
+        "template": "<object> feels <descriptive word>."
+    },
+    {
+        "id": 4,
+        "template": "<object> made me feel <descriptive word>."
+    },
+    {
+        "id": 5,
+        "template": "Teacher <object> appeared <descriptive word>."
+    },
+    {
+        "id": 6,
+        "template": "Professor <object> seemed <descriptive word>."
+    },
+    {
+        "id": 7,
+        "template": "Engineer <object> was <descriptive word>."
+    },
+    {
+        "id": 8,
+        "template": "Manager <object> seemed <descriptive word>."
+    },
+    {
+        "id": 9,
+        "template": "Assistant <object> was <descriptive word>."
+    },
+    {
+        "id": 10,
+        "template": "<object>'s work was <descriptive word>."
+    },
+    {
+        "id": 11,
+        "template": "The presentation by <object> was <descriptive word>."
+    },
+    {
+        "id": 12,
+        "template": "Supervisor <object> is <descriptive word>."
+    },
+    {
+        "id": 13,
+        "template": "<object>'s leadership is <descriptive word>."
+    },
+    {
+        "id": 14,
+        "template": "Chef <object> is <descriptive word>."
+    },
+    {
+        "id": 15,
+        "template": "Officer <object> is <descriptive word>."
+    }
+]

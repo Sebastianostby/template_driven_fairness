@@ -1,0 +1,15 @@
+{
+    "male" : [
+        "John", "Michael", "David", "James", "Robert", 
+        "William", "Richard", "Thomas", "Joseph", "Christopher",
+        "Daniel", "Paul", "Mark", "Donald", "George", 
+        "Kenneth", "Steven", "Edward", "Brian", "Ronald"
+        ],
+        
+    "female" : [    
+            "Mary", "Jennifer", "Linda", "Patricia", "Elizabeth", 
+            "Susan", "Jessica", "Sarah", "Karen", "Nancy",
+            "Lisa", "Margaret", "Betty", "Dorothy", "Sandra", 
+            "Ashley", "Kimberly", "Donna", "Emily", "Michelle"
+        ]
+}

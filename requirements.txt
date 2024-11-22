@@ -1,0 +1,6 @@
+green_tsetlin==1.0.1
+fairlearn==0.10.0
+datasets==3.0.0
+spacy==3.8.2
+transformers==4.45.2
+torch==2.5.0
